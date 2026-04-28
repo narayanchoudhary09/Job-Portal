@@ -1,7 +1,7 @@
 # Job Elevate
 
 ## Project Overview
-Career Evaluate is a web application designed to connect students and recruiters. Recruiters can post jobs, manage applications, and create company profiles, while students can search for jobs, apply, and manage their profiles.
+Job Elevate is a web application designed to connect students and recruiters. Recruiters can post jobs, manage applications, and create company profiles, while students can search for jobs, apply, and manage their profiles.
 
 ## Features
 
@@ -13,14 +13,14 @@ Career Evaluate is a web application designed to connect students and recruiters
 ### Recruiter Functionality
 - **Company Creation**
   - Ability to create and manage a company profile.
-- **Job Posting**
+- Job Posting
   - Post new job opportunities.
   - View job applications from students.
 - **Application Management**
   - Accept, reject, or mark applications as pending.
 
-### Student Functionality
-- **Job Search**
+# Student Functionality
+- Job Search
   - Search for jobs by role and company name.
   - Apply filters to refine search results.
 - **Job Application**
@@ -30,9 +30,9 @@ Career Evaluate is a web application designed to connect students and recruiters
 - **Application Updates**
   - View the status of job applications (accepted, pending, rejected).
 
-## Tech Stack
+# Tech Stack
 
-### Backend
+# Backend
 - Node.js
 - Express
 - MongoDB
@@ -43,9 +43,8 @@ Career Evaluate is a web application designed to connect students and recruiters
 - Redux (for state management)
 - Tailwind CSS (optional for styling)
 
-## Getting Started
 
-### Backend Setup
+# Backend Setup
 1. Navigate to the backend directory:
    ```bash
    cd backend
@@ -59,7 +58,7 @@ Career Evaluate is a web application designed to connect students and recruiters
    npx nodemon
    ```
 
-### Frontend Setup
+# Frontend Setup
 1. Navigate to the frontend directory:
    ```bash
    cd frontend
@@ -73,15 +72,15 @@ Career Evaluate is a web application designed to connect students and recruiters
    npm rundev
    ```
 
-## How to Use
+# How to Use
 
-### For Recruiters
+# For Recruiters
 1. Sign up or log in as a recruiter.
 2. Create a company profile.
 3. Post job openings.
 4. Manage applications by accepting, rejecting, or marking them as pending.
 
-### For Students
+# For Students
 1. Sign up or log in as a student.
 2. Search for jobs by role or company name.
 3. Apply filters to refine your job search.
