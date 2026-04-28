@@ -1,4 +1,4 @@
-# Job Evaluate
+# Job Elevate
 
 ## Project Overview
 Career Evaluate is a web application designed to connect students and recruiters. Recruiters can post jobs, manage applications, and create company profiles, while students can search for jobs, apply, and manage their profiles.
